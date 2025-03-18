@@ -1,3 +1,30 @@
+My Midterm Project created by: Lezil Orgasa BSIT - 2A
+
+https://github.com/user-attachments/assets/5c5f5ead-e4eb-42d7-9313-ad028cbf5ba7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
